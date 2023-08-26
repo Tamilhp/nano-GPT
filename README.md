@@ -17,10 +17,10 @@ This repository hosts a GPT (Generative Pre-trained Transformer) model built ent
 
 To get started with this project, clone the repository and install the required packages:
 
-\`\`\`bash
+```bash
 git clone https://github.com/Tamilhp/nano-GPT.git
 cd nano-GPT
-\`\`\`
+```
 
 
 
