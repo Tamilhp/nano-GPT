@@ -2,7 +2,7 @@
 
 # GPT Proof of Concept (POC) Project
 
-![Decoder-Only Transformer Architecture]https://www.google.com/url?sa=i&url=https%3A%2F%2Fdugas.ch%2Fartificial_curiosity%2FGPT_architecture.html&psig=AOvVaw0m-k4ZmiVw83pidlRLoW5f&ust=1693150302357000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjjjs3S-oADFQAAAAAdAAAAABAe)
+![Decoder-Only Transformer Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdugas.ch%2Fartificial_curiosity%2FGPT_architecture.html&psig=AOvVaw0m-k4ZmiVw83pidlRLoW5f&ust=1693150302357000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjjjs3S-oADFQAAAAAdAAAAABAe)
 
 ## Overview
 
@@ -23,7 +23,6 @@ To get started with this project, clone the repository and install the required 
 \`\`\`bash
 git clone https://github.com/Tamilhp/nano-GPT.git
 cd nano-GPT
-
 \`\`\`
 
 
