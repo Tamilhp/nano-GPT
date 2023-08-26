@@ -1,9 +1,6 @@
-# nano-GPT
+# High-Performance GPT Built from Scratch
 
-# GPT Proof of Concept (POC) Project
-
-![Decoder-Only Transformer Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdugas.ch%2Fartificial_curiosity%2FGPT_architecture.html&psig=AOvVaw0m-k4ZmiVw83pidlRLoW5f&ust=1693150302357000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjjjs3S-oADFQAAAAAdAAAAABAe)
-
+![Decoder-Only Transformer Architecture](https://dugas.ch/artificial_curiosity/img/GPT_architecture/GPT1.png)
 ## Overview
 
 This repository hosts a GPT (Generative Pre-trained Transformer) model built entirely from scratch. The project aims to demonstrate the capabilities of a decoder-only transformer architecture in text generation tasks. It serves as a proof of concept and has been benchmarked against competitive performance metrics.
